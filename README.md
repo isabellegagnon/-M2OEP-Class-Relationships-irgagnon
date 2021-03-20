@@ -1,1 +1,1 @@
-# -M2OEP-Class-Relationships-irgagnon
+# M2OEP-Class-Relationships-irgagnon
